@@ -180,7 +180,7 @@ namespace ManaBingsu.OneButtonLocalizedTMProFontAtlasGenerator
 
             public override void OnInspectorGUI()
             {
-                if (GUILayout.Button("Auto bake"))
+                if (GUILayout.Button("Generate"))
                     target.GenerateFontAtlas();
 
                 serializedObject.Update();
