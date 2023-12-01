@@ -1,5 +1,5 @@
 # OneButtonLocalizedTMProFontAtlasGenerator
-Generate localized TMPro fontatlas with one button.
+Generate localized TMPro font atlas with one button.
 
 ## Requirements
 * com.unity.localization
